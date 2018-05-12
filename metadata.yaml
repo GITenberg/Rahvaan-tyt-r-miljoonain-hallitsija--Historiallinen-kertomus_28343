@@ -1,0 +1,31 @@
+_repo: Rahvaan-tyt-r-miljoonain-hallitsija--Historiallinen-kertomus_28343
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gummerus, K. J. (Kaarle Jaakko)
+    aliases:
+    - Gummerus, Karl Jacob
+    - Gummerus, Karl Jakob
+    - Gummerus, Kaarle Jaakko
+    birthdate: 1840
+    deathdate: 1898
+    gutenberg_agent_id: '5410'
+    url: http://www.gutenberg.org/2009/agents/5410
+description: ''
+gutenberg_issued: '2009-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28343'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 19th century'
+- !lcsh 'Historical fiction'
+- !lcc 'PH'
+title: 'Rahvaan tytär, miljoonain hallitsija: Historiallinen kertomus'
+url: http://www.gutenberg.org/ebooks/28343
